@@ -1,0 +1,23 @@
+{
+  "name": "franko-social-network-api",
+  "version": "1.0.0",
+  "description": "Franks social network company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franko88Bit/FrankO-Social-Network-API.git"
+  },
+  "author": "Frank Alvarez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Franko88Bit/FrankO-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/Franko88Bit/FrankO-Social-Network-API#readme",
+  "dependencies": {
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.4.2"
+  }
+}
