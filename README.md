@@ -1,2 +1,3 @@
 # FrankO-Social-Network-API
-A social media startup so that my website can handle large amounts of data
+A social media startup so that my website can handle large amounts of data. Building an API for my social network company that will use a NoSQL database, MongoDB, so that my website can handle large amounts of unstructured data. My company will have an API that consists of multiple routes that will use the command line to invoke the app. My server will then start and use Mongoose models that will be synced to a MongoDB database. My API will have GET routes for users and thoughts and the data for each of thoses routes will be shown in a formatted JSON. When testing API post and delete routes in Insomnia, I will be able to create, update, and delete users and thoughts in the database. After testing the API post and delete routes in Insmonia, I will be able to create and delete reactions to thoughts and add and remove friends to a user's friend list.
+
