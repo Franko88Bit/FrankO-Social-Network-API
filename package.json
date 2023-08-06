@@ -2,9 +2,10 @@
   "name": "franko-social-network-api",
   "version": "1.0.0",
   "description": "Franks social network company",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/Franko88Bit/FrankO-Social-Network-API#readme",
   "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
     "mongodb": "^5.7.0",
     "mongoose": "^7.4.2"
   }
